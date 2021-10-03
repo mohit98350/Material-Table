@@ -114,7 +114,7 @@ const App=()=> {
           search: true,
           headerStyle: {
             backgroundColor: '#01579b',
-            color: '#FFF'
+            color: 'black'                    //#fff//
           },
           rowStyle: {
             backgroundColor: '#EEE',
